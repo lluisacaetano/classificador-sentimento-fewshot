@@ -64,3 +64,4 @@ RESULTADO:
 - Python 3.x
 - OpenAI API (gpt-4o-mini)
 - python-dotenv
+
